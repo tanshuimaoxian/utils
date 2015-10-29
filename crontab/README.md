@@ -1,1 +1,0 @@
-# crontab for yii2
